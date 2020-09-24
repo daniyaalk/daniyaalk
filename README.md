@@ -3,5 +3,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drtweety&layout=compact" alt="drtweety" /></p>
 
 <p align="center">
+<a href="https://instagram.com/daniyaalk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="daniyaalk" height="30" width="30" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/user/computingessentials" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/user/computingessentials" height="30" width="30" /></a>
 </p>
