@@ -3,7 +3,7 @@ Welcome to my GH! I am a Backend Developer with proficiency in Java, Spring, Pyt
 <br><br>
 If you wish to connect with me, my LinkedIn is: <a href="https://www.linkedin.com/in/daniyaalk/">in/daniyaalk</a> or you can reach out on my email: <a href="mailto:me@daniyaalkhan.com">me@daniyaalkhan.com</a>
 <br><br> 
-I used to post tutorial styles videos on my Youtube channel almost 10 years ago, if you'd like to check it out: https://www.youtube.com/ComputingEssentials
+I used to post coding/cloud computing tutorials on my Youtube channel almost 10 years ago, if you'd like to check it out: https://www.youtube.com/ComputingEssentials
 <br>
 The channel is mostly inactive now but I still post every once in a while.
 <br><br> 
